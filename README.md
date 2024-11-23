@@ -18,6 +18,9 @@ cf) 토필 만들 때 확인되는 kafka의 log
 
 
 airflow 가지고 놀기~
+1. 우선 엔터 산업 쪽 -> 내가 좋아하는 특정 연예인의 정보를 활용할 수 있도록 해보자. 왜냐하면? 엔터는 데이터가 많거든. 많은 데이터가 필요해 -> 그럼 무슨 데이터를 가져와야 할까? ????? # 엔믹스 지우
+
+
 여기 모니터링좀 해야겠다.
 https://devocean.sk.com/blog/techBoardDetail.do?ID=166665&boardType=DEVOCEAN_STUDY&searchData=&searchDataMain=&page=&subIndex=&searchText=&techType=OPENLAB&searchDataSub=
 
