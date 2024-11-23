@@ -15,3 +15,10 @@ cf) 토필 만들 때 확인되는 kafka의 log
 
 5. 
 ```
+
+
+airflow 가지고 놀기~
+여기 모니터링좀 해야겠다.
+https://devocean.sk.com/blog/techBoardDetail.do?ID=166665&boardType=DEVOCEAN_STUDY&searchData=&searchDataMain=&page=&subIndex=&searchText=&techType=OPENLAB&searchDataSub=
+
+내년 상반기에는 꼭 신청해야지
