@@ -26,3 +26,6 @@ airflow 가지고 놀기~
 https://devocean.sk.com/blog/techBoardDetail.do?ID=166665&boardType=DEVOCEAN_STUDY&searchData=&searchDataMain=&page=&subIndex=&searchText=&techType=OPENLAB&searchDataSub=
 
 내년 상반기에는 꼭 신청해야지
+
+# airflow 자료
+- https://academy.astronomer.io/page/learning-paths
